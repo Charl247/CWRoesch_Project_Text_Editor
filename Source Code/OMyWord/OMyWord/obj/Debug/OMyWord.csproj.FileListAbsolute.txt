@@ -1,0 +1,48 @@
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\bin\Debug\OMyWord.exe.config
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\bin\Debug\OMyWord.exe
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\bin\Debug\OMyWord.pdb
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\obj\Debug\OMyWord.csprojResolveAssemblyReference.cache
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\obj\Debug\OMyWord.mainForm.resources
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\obj\Debug\OMyWord.Properties.Resources.resources
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.GenerateResource.Cache
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.CoreCompileInputs.cache
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\obj\Debug\OMyWord.exe
+c:\users\mrcwr\source\repos\OMyWord\OMyWord\obj\Debug\OMyWord.pdb
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\bin\Debug\OMyWord.exe.config
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\obj\Debug\OMyWord.exe
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\obj\Debug\OMyWord.pdb
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\bin\Debug\OMyWord.exe
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\bin\Debug\OMyWord.pdb
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\obj\Debug\OMyWord.csprojResolveAssemblyReference.cache
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\obj\Debug\OMyWord.mainForm.resources
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\obj\Debug\OMyWord.Properties.Resources.resources
+C:\Users\charl.roesch\Documents\Visual Studio 2015\Projects\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.GenerateResource.Cache
+D:\OMyWord\OMyWord\bin\Debug\OMyWord.exe.config
+D:\OMyWord\OMyWord\obj\Debug\OMyWord.exe
+D:\OMyWord\OMyWord\obj\Debug\OMyWord.pdb
+D:\OMyWord\OMyWord\obj\Debug\OMyWord.csprojResolveAssemblyReference.cache
+D:\OMyWord\OMyWord\obj\Debug\OMyWord.mainForm.resources
+D:\OMyWord\OMyWord\obj\Debug\OMyWord.Properties.Resources.resources
+D:\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.GenerateResource.Cache
+D:\OMyWord\OMyWord\bin\Debug\OMyWord.exe
+D:\OMyWord\OMyWord\bin\Debug\OMyWord.pdb
+E:\OMyWord\OMyWord\bin\Debug\OMyWord.exe.config
+E:\OMyWord\OMyWord\bin\Debug\OMyWord.exe
+E:\OMyWord\OMyWord\bin\Debug\OMyWord.pdb
+E:\OMyWord\OMyWord\obj\Debug\OMyWord.csprojResolveAssemblyReference.cache
+E:\OMyWord\OMyWord\obj\Debug\OMyWord.mainForm.resources
+E:\OMyWord\OMyWord\obj\Debug\OMyWord.Properties.Resources.resources
+E:\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.GenerateResource.Cache
+E:\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.CoreCompileInputs.cache
+E:\OMyWord\OMyWord\obj\Debug\OMyWord.exe
+E:\OMyWord\OMyWord\obj\Debug\OMyWord.pdb
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\bin\Debug\OMyWord.exe.config
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\bin\Debug\OMyWord.exe
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\bin\Debug\OMyWord.pdb
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Debug\OMyWord.csprojResolveAssemblyReference.cache
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Debug\OMyWord.mainForm.resources
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Debug\OMyWord.Properties.Resources.resources
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.GenerateResource.Cache
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Debug\OMyWord.csproj.CoreCompileInputs.cache
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Debug\OMyWord.exe
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Debug\OMyWord.pdb

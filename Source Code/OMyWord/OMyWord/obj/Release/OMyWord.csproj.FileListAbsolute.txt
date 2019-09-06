@@ -1,0 +1,26 @@
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\bin\Release\OMyWord.exe.config
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\bin\Release\OMyWord.exe
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\bin\Release\OMyWord.pdb
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\obj\Release\OMyWord.mainForm.resources
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\obj\Release\OMyWord.Properties.Resources.resources
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\obj\Release\OMyWord.csproj.GenerateResource.Cache
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\obj\Release\OMyWord.exe
+C:\Users\charl.roesch\documents\visual studio 2015\Projects\OmyWord\OMyWord\obj\Release\OMyWord.pdb
+E:\OMyWord\OMyWord\bin\Release\OMyWord.exe.config
+E:\OMyWord\OMyWord\bin\Release\OMyWord.exe
+E:\OMyWord\OMyWord\bin\Release\OMyWord.pdb
+E:\OMyWord\OMyWord\obj\Release\OMyWord.mainForm.resources
+E:\OMyWord\OMyWord\obj\Release\OMyWord.Properties.Resources.resources
+E:\OMyWord\OMyWord\obj\Release\OMyWord.csproj.GenerateResource.Cache
+E:\OMyWord\OMyWord\obj\Release\OMyWord.csproj.CoreCompileInputs.cache
+E:\OMyWord\OMyWord\obj\Release\OMyWord.exe
+E:\OMyWord\OMyWord\obj\Release\OMyWord.pdb
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\bin\Release\OMyWord.exe.config
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\bin\Release\OMyWord.exe
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\bin\Release\OMyWord.pdb
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Release\OMyWord.mainForm.resources
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Release\OMyWord.Properties.Resources.resources
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Release\OMyWord.csproj.GenerateResource.Cache
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Release\OMyWord.csproj.CoreCompileInputs.cache
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Release\OMyWord.exe
+E:\MLBC195-01 C(sharp) Basic Project 2 – Text Editor\Source Code\OMyWord\OMyWord\obj\Release\OMyWord.pdb
